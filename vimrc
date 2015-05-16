@@ -78,7 +78,7 @@ endif
 set textwidth=80
 set colorcolumn=+1
 
-" Numbers
+" Line numbers!
 set number
 set numberwidth=5
 
